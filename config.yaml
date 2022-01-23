@@ -1,4 +1,4 @@
-baseURL: "/"
+#baseURL: "henuzxy.github.io"
 title: XiaoYu Zhao
 paginate: 10
 theme: PaperMod
@@ -19,3 +19,22 @@ menu:
     pre: <i class='fa fa-heart'></i>
     url: /about/
     weight: 110
+params:
+    homeInfoParams:
+        Title: XiaoYu Zhao
+        Content: >
+            Software Engineer.
+
+            - currently working at Shopee, Living in Singapore, worked at Tencent.
+            
+            - Record algorithm learning, and some daily.
+
+    socialIcons: # optional
+        - name: Github
+          url: https://github.com/henuzxy
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/zhao-xiaoyu-ba30571a7/
+        - name: Twitter
+          url: https://twitter.com/zxy61707050
+        
+          
